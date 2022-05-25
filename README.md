@@ -1,10 +1,10 @@
 # Assignment_1
-# Assignment_1
 
 Head title has been changed from to be more descriptive
 
 The html body layout has been changed to make it easily maintained.
 ####The new html body is divided into 5 parts
+
 a)header
 has been changed from div to element header and header class has been removed and substituted with header element.
 -inside header, nav element was added to reflect Search Engine Optimization Online, Reputation Management and Social Media Marketing
