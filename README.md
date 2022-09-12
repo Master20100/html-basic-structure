@@ -1,4 +1,4 @@
-# Assignment_1
+# Html basic structure
 
 Head title has been changed from to be more descriptive
 
